@@ -1,0 +1,10 @@
+customer_id,name,email,age,city,salary,signup_date,phone
+1,John Smith,john@email.com,32,New York,50000,2022-01-15,5551234567
+2,Jane Doe,jane.doe@company.com,28,Los Angeles,75000,2021-03-22,5559876543
+3,Bob Johnson,bob@email.com,45,Chicago,60000,2023-05-10,5554567890
+4,Alice Brown,unknown@email.com,29,Houston,55000,2022-11-30,5552345678
+5,Charlie Wilson,charlie@email.com,52,New York,80000,2021-07-18,5553456789
+6,David Lee,david@email.com,38,Phoenix,70000,2023-02-14,5558765432
+7,Emily Davis,emily.davis@company.com,25,Chicago,65000,2022-09-05,5557654321
+8,Frank Miller,frank@email.com,41,Philadelphia,72000,2021-12-20,5555432109
+9,Grace Wilson,grace@email.com,35,Miami,68000,2024-01-01,
